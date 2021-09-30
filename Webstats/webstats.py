@@ -8,6 +8,3 @@
 #     #  Sto definendo (def) una nuova funzione chiamata str2date che accetta un parametro s
 #     #  Il suo scopo è quello di convertire una stringa in una data
 #     return date(*[int(item) for item in s.split])
-
-#sto effettuando queste modifiche nel ramo di studio del codice
-#vorrei importare queste modifiche nel main branch
