@@ -1,0 +1,2 @@
+-f -> serve a specificare il nome del file
+-d -> serve a specificare il giorno nel quale si vogliono calcolare le statistiche
